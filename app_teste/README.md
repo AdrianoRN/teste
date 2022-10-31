@@ -4,13 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Testando as aplicações do flutter no VSCode.
+este exemplo foi feito o Build fora do vccode  via PowerShell.
+Foram utilizado os seguintes comandos
+Flutter devices no terminal do vscode
+este comando lista todos os emuladores presentes no pc
+neste exemplo eu emulei direto no meu celular um lg-k50s e obtive exito na execução
